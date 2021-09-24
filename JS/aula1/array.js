@@ -43,4 +43,4 @@ const pote = frutas.slice(3,4)
 console.log(pote)
 
 
-3 outros metodos de array que eu gostaria de aprender. 
+// 3 outros metodos de array que eu gostaria de aprender. 
