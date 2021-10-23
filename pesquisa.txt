@@ -1,5 +1,0 @@
-if
-else
-ternário
-
-tipos de for
